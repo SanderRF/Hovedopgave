@@ -1,3 +1,6 @@
-Min mye indkøbsliste:
+Min mye indkøbsliste: -f3 branch
 Kylling
 Nudler
+Brød
+Smør
+
