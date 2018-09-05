@@ -5,3 +5,6 @@ Brød
 Smør
 Juice
 Æg
+Mælk
+Müsli
+
