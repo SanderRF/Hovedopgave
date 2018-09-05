@@ -3,4 +3,5 @@ Kylling
 Nudler
 Brød
 Smør
-
+Mælk
+Müsli
